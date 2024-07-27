@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishita Gangwal</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <a href="https://x.com/Rishittaa" target="blank"><img src="https://img.shields.io/twitter/follow/Rishittaa?logo=twitter&style=for-the-badge" alt="abctweet" /></a> </p>
+<p align="left"> <Link href="https://x.com/Rishittaa" target="blank"><img src="https://img.shields.io/twitter/follow/Rishittaa?logo=twitter&style=for-the-badge" alt="abctweet" /></a> </p>
 
 - 👨‍💻 All of my projects are available at https://rishitagangwal.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Rishittaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abctweet" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rishita-gangwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkednin" height="30" width="40" /></a>
+<Link href="https://x.com/Rishittaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abctweet" height="30" width="40" /></a>
+<Link href="https://www.linkedin.com/in/rishita-gangwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkednin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
