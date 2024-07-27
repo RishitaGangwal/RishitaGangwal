@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishita Gangwal</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/abctweet" target="blank"><img src="https://img.shields.io/twitter/follow/abctweet?logo=twitter&style=for-the-badge" alt="abctweet" /></a> </p>
+<p align="left"> <a href="https://x.com/Rishittaa" target="blank"><img src="https://img.shields.io/twitter/follow/Rishittaa?logo=twitter&style=for-the-badge" alt="abctweet" /></a> </p>
 
 - 👨‍💻 All of my projects are available at <a href="https://rishitagangwal.vercel.app/" target="blank">
 
